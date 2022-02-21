@@ -36,15 +36,17 @@ hr {
     border-bottom: 2px solid #999;
 }
 
-.header {
-    background-color: #2E313F;
-    text-align: center;
-    padding: 32px 0;
-}
-
 h1 {
     font-size: 36px;
     margin-bottom: 16px;
+}
+
+/* Header Styles */
+
+.header {
+    background-color: #2E313F;
+    text-align: center;
+    padding: 32p;
 }
 
 .header a {
@@ -55,7 +57,7 @@ h1 {
     text-transform: uppercase;
 }
 
-/* Hero */
+/* Hero Styles */
 
 .Hero {
   background-color: #2E313F;
@@ -108,12 +110,11 @@ h1 {
     background-color: #1d7aaf;
 }
 
-/* Footer */
+/* Footer Styles */
 
 .footer {
-    background-color: #2E313F;
-    padding: 60px 0;
-    font-size: 20px;
-    color: #999;
-    
+   background-color: #2E313F;
+   padding: 60px 0;
+   font-size: 20px;
+   color: #999;   
 }
