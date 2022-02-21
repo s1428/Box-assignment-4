@@ -46,7 +46,7 @@ h1 {
 .header {
     background-color: #2E313F;
     text-align: center;
-    padding: 32p;
+    padding: 32px 0;
 }
 
 .header a {
@@ -59,7 +59,7 @@ h1 {
 
 /* Hero Styles */
 
-.Hero {
+.hero {
   background-color: #2E313F;
   text-align: left;
   padding: 120px 0;
